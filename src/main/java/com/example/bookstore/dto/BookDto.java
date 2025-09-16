@@ -1,9 +1,8 @@
 package com.example.bookstore.dto;
 
-import java.math.BigDecimal;
-
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;
+import java.math.BigDecimal;
 import lombok.Data;
 
 @Data
